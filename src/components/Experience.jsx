@@ -18,7 +18,6 @@ const Experience = () => {
       title: "Java",
       style: "shadow-amber-700",
     },
-    ,
     {
       id: 2,
       src: springboot,
